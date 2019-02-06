@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # https://git-scm.com/docs/gitignore
 # https://help.github.com/articles/ignoring-files
 # Example .gitignore files: https://github.com/github/gitignore
 /bower_components/
 /node_modules/
+=======
+.sass-cache/
+*.css.map
+>>>>>>> 3404fe1085fb9d95ff48e6d6235dc7bbc3a896d0
